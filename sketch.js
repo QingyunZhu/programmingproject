@@ -1,7 +1,7 @@
 var seethru=255 
 //The setup function only happens once 
 function setup(){
-    createCanvas(500,500); //create 500px X 500px canvas
+    createCanvas(900,900); //create 500px X 500px canvas
     background(250,200,255); 
 }
 
