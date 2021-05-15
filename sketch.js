@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
   background(250, 200, 255);
-  fill(142, 46, 178,255);//purple
+  fill(0, 255, 255,255);//blue
   stroke(130,40, 130);
   strokeWeight(18); 
   ellipse (250, 250, jim, jim); 
